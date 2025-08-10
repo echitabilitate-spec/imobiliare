@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "imobiliare",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "anuturi-imobiliare",
+      "database_id": "5e0f95f5-692c-434b-ac78-131be1c199c3"
+    }
+  ]
+}
